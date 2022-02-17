@@ -13,6 +13,6 @@ The application is written in native JavaScript HTML and CSS, the installation o
 
 Input the Username of the User you want to find and voila!
 
-![Alt Text](ReadmeGifs/gif1.gif)
+![Alt Text](ReadmeGifs/newgif.gif)
 
 
