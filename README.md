@@ -1,6 +1,6 @@
 # Github-Finder
 
-GitHub Finder is a web application that uses the GitHub Api to find the Github user you are looking for. 
+GitHub Finder is a web application that uses the GitHub API to find the Github user you are looking for. 
 
 It provides basic information about user, the last public repos of the user, the public Gists, the followers and the following.
 
